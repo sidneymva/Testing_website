@@ -1,3 +1,8 @@
+
+---
+Lesson-example: [https://carpentries.github.io/lesson-example/]({{page.lesson-example}})
+---
+
 # Building websites in GitHub.
 
 ## Description
