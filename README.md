@@ -15,3 +15,13 @@ are caused by two trailing spaces at the end of a line.
 - Software Carpentry
 - Data Carpentry
 - Library Carpentry
+
+## Including Strikethrough text
+
+You can see how to include <s>Strikethrough text </s> [here](https://webapps.stackexchange.com/questions/14986/strikethrough-with-github-markdown)
+
+### List of codes for R Markdown
+
+1. '**' For **bold**
+2. '*' for *italic*
+3. s into <> for Strikethrough text
