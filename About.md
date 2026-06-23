@@ -14,4 +14,4 @@ You can cite the project as:
 ## Contact us
 
 - Email: [team@carpentries.org](mailto:{{ site.email }})
-- GitHub: [https://github.com/swcarpentry](https://github.com/swcarpentry)
+- GitHub: [https://github.com/swcarpentry]({{ site.github }})
